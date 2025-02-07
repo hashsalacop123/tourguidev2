@@ -16,6 +16,7 @@
             <div class = "container"  id="navbar">
             <div class = "row">
               <?php 
+              // testing ni choi final na
                 $phone = get_field('phone_number','option');
                 $email = get_field('email','option');
 
